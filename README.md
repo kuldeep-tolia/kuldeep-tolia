@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kuldeep-tolia
-- 👀 My interest lies in developing numerical solvers for fluid flow problems.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kuldeep,
+- 👀 My interest lies in developing numerical solvers for fluid flow problems,
 - 📫 You can contact me through my email toliakuldeep1998@gmail.com
 
 <!---
