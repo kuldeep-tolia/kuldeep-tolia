@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuldeep,
-- 👀 My interest lies in developing numerical solvers for fluid flow and heat transfer problems,
+- 👀 My interest lies in developing numerical solvers for fluid flow and heat transfer problems and high performance computing,
 - 📫 You can contact me through my email toliakuldeep1998@gmail.com
 
 <!---
