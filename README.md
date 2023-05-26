@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Kuldeep,
-- 👀 My interest lies in developing numerical solvers for fluid flow and heat transfer problems and high performance computing,
-- 📫 You can contact me through my email toliakuldeep1998@gmail.com
+- 👋 Hi, I’m Kuldeep.
+- 👀 I have a strong interest in developing numerical solvers for high-speed flows and heat transfer problems, as well as exploring high-performance computing.
+- 👀 My current research is focused around using the lattice Boltzmann method to study turbulent conjugate natural convection.
+- 📫 If you'd like to get in touch, feel free to reach out to me at toliakuldeep1998@gmail.com
 
 <!---
 kuldeep-tolia/kuldeep-tolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
